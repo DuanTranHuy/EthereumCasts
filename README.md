@@ -1,7 +1,8 @@
 # EthereumCasts
-Install Meta Mask extension  and back up mnemonic phrase
+Install Meta Mask extension and back up mnemonic phrases
 
 Create an infura account you will receive email with content like this:
+
 Main Ethereum Network
 https://mainnet.infura.io/80TKZpSSBLW5cSaIWoK1 
 
