@@ -1,4 +1,25 @@
 # EthereumCasts
+Install Meta Mask extension  and back up mnemonic phrase
+
+Create an infura account you will receive email with content like this:
+Main Ethereum Network
+https://mainnet.infura.io/80TKZpSSBLW5cSaIWoK1 
+
+Test Ethereum Network (Ropsten)
+https://ropsten.infura.io/80TKZpSSBLW5cSaIWoK1 
+
+Test Ethereum Network (Rinkeby)
+https://rinkeby.infura.io/80TKZpSSBLW5cSaIWoK1 
+
+Test Ethereum Network (Kovan)
+https://kovan.infura.io/80TKZpSSBLW5cSaIWoK1 
+
+IPFS Gateway
+https://ipfs.infura.io 
+
+IPFS RPC
+https://ipfs.infura.io:5001 
+
 Window: 
 
 Note: Open cmd or Powershell as admin
