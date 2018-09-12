@@ -27,7 +27,7 @@ Note: Open cmd or Powershell as admin
 
 - install node-gyp: npm install -g node-gyp 
 
-- download and install build tools manually (http://landinghub.visualstudio.com/visual-cpp-build-tools)
+- download and install build tools manually https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2017
 
 - install Python 2.7
 
